@@ -1,0 +1,18 @@
+{
+    "name": "ekanur/hello",
+    "description": "[X].[X]",
+    "authors":[{
+    	"name"	: "Eka Nur Ahmad R",
+    	"email"	: "eka.html@gmail.com"
+    }],
+    "type": "library",
+    "license": "WTFL",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+    	"psr-0":{
+    		"HelloPackagist":"src/"
+    	}
+
+    }
+}
